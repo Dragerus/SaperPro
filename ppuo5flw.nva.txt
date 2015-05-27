@@ -1,0 +1,16 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch dev
+# Your branch is behind 'origin/dev' by 4 commits, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#	modified:   Content/ThirdPerson/Blueprints/DetonabeBomb.uasset
+#	modified:   Content/ThirdPerson/Blueprints/Mine.uasset
+#	modified:   Content/ThirdPerson/Maps/ShowcaseMap.umap
+#
+# Untracked files:
+#	Content/ThirdPerson/Blueprints/AbstractBomb.uasset
+#
+
